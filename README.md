@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Ji-do
-- 👀 I’m interested in ioT Development & Application Development
-- 🌱 I’m currently learning Computer Science
+- 👋 Hi, I’m @Abdulmajeed
+- 👀 I’m interested in Growth & Software Engineer
+- 🌱 I’m currently Studying Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- Twitter : https://twitter.com/J1ido
-- Email : Jmkd-66@hotmail.com
+- Twitter : https://twitter.com/J1_1o
+- Email : ip.mjeed@gmail.com
 
 <!---
 Ji-do/Ji-do is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
